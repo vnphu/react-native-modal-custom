@@ -1,6 +1,6 @@
 {
   "name": "react-native-modal-custom",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "",
   "main": "src/index.js",
   "scripts": {
@@ -20,6 +20,9 @@
     "react-native-actionsheet",
     "custom-action-sheet"
   ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "bugs": {
     "url": "https://github.com/vnphu/react-native-modal-custom/issues"
   },
