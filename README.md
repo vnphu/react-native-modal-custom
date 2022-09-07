@@ -1,4 +1,4 @@
-# react-native-modal-custom
+# @vnphu/react-native-modal-custom
 
 Cross platform ActionSheet. This component implements a custom ActionSheet and provides the same way to drawing it on the defferent platforms(iOS and Android). Actually, In order to keep the best effect, it still uses the ActionSheetIOS on iOS.
 
@@ -18,13 +18,13 @@ Cross platform ActionSheet. This component implements a custom ActionSheet and p
 ## Install
 
 ```
-npm install react-native-modal-custom --save
+npm install @vnphu/react-native-modal-custom --save
 ```
 
 ## Usage
 
 ```js
-import ActionSheet from "react-native-modal-custom";
+import ActionSheet from "@vnphu/react-native-modal-custom";
 
 class Demo extends React.Component {
   showActionSheet = () => {
@@ -55,7 +55,7 @@ class Demo extends React.Component {
 so you can customize option and title
 
 ```js
-import { ActionSheetCustom as ActionSheet } from "react-native-modal-custom";
+import { ActionSheetCustom as ActionSheet } from "@vnphu/react-native-modal-custom";
 
 const options = [
   "Cancel",
@@ -118,7 +118,7 @@ const styles = {
 
 ## Props
 
-https://github.com/beefe/react-native-modal-custom/blob/master/src/options.js
+https://github.com/vnphu/react-native-modal-custom/blob/master/src/options.js
 
 <table>
     <tr>
