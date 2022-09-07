@@ -21,7 +21,7 @@
     "custom-action-sheet"
   ],
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@vnphu:registry": "https://npm.pkg.github.com"
   },
   "bugs": {
     "url": "https://github.com/vnphu/react-native-modal-custom/issues"
