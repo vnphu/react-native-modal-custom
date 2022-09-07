@@ -95,7 +95,7 @@ class Demo extends React.Component {
 
 ### How to redesign style ?
 
-The style of ActionSheet is defined in [lib/styles.js](https://github.com/vnphu/react-native-modal-custom/blob/master/lib/styles.js).
+The style of ActionSheet is defined in [src/styles.js](https://github.com/vnphu/react-native-modal-custom/blob/master/src/styles.js).
 
 ```javascript
 // example
@@ -118,7 +118,7 @@ const styles = {
 
 ## Props
 
-https://github.com/beefe/react-native-modal-custom/blob/master/lib/options.js
+https://github.com/beefe/react-native-modal-custom/blob/master/src/options.js
 
 <table>
     <tr>
