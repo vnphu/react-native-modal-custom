@@ -1,0 +1,28 @@
+{
+  "name": "react-native-modal-custom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vnphu/react-native-modal-custom.git"
+  },
+  "keywords": [
+    "modal",
+    "action sheet",
+    "modalize",
+    "react-native",
+    "react-component",
+    "react-native-action-sheet",
+    "react-native-actionsheet",
+    "custom-action-sheet"
+  ],
+  "bugs": {
+    "url": "https://github.com/vnphu/react-native-modal-custom/issues"
+  },
+  "author": "",
+  "license": "ISC"
+}
